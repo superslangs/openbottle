@@ -1,3 +1,5 @@
+<img width="1390" height="947" alt="Screenshot 2026-06-11 at 17-07-41 OpenBottle AI" src="https://github.com/user-attachments/assets/5cadf382-81db-4868-bf6f-472fc6421701" />
+
 # OpenBottle
 OpenBottle is an open-source, locally runnable 3D bottle design platform. Create and customize bottles in real time using interactive controls for dimensions, materials, colors, caps, and contents. Visualize designs in a modern 3D viewer, experiment with different styles, and export bottle concepts for product design and prototyping.
 
