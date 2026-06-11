@@ -28,7 +28,7 @@ OpenBottle is an open-source, locally runnable 3D bottle design platform. Create
 
 1. Clone the repository in terminal:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/openbottle.git
+   git clone https://github.com/superslangs/openbottle.git
 
 ## Open file
 
